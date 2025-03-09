@@ -1,5 +1,5 @@
-#Movie Recommendation System 🎬 | AI-Powered Movie Suggestions
-This Movie Recommendation System suggests movies based on user preferences using machine learning techniques. Built with Python, Streamlit, and scikit-learn, it analyzes 4,803 movies from the TMDB dataset to provide personalized recommendations.
+Movie Recommendation System 🎬 
+This Movie Recommendation System suggests movies based on user preferences using machine learning techniques. Built with Python, Streamlit, and scikit-learn, it analyzes 5000 movies from the TMDB dataset to provide personalized recommendations.
 
 🚀 Key Features:
 ✅ Content-Based Filtering: Uses TF-IDF Vectorization & Cosine Similarity for accurate recommendations.
