@@ -11,3 +11,11 @@ This Movie Recommendation System suggests movies based on user preferences using
 ✅ Optimized Performance: Efficient data processing reduces computation time by 30%, ensuring smooth recommendations.
 
 📌 Technologies Used: Python | Streamlit | Pandas | NumPy | scikit-learn | TMDb API
+
+# Project Demo
+
+
+
+
+https://github.com/user-attachments/assets/2eba1b9e-e89e-4792-b19c-9e72be158771
+
