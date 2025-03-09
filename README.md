@@ -1,4 +1,6 @@
-Movie Recommendation System 🎬 
+# Movie Recommendation System 🎬 
+
+
 This Movie Recommendation System suggests movies based on user preferences using machine learning techniques. Built with Python, Streamlit, and scikit-learn, it analyzes 5000 movies from the TMDB dataset to provide personalized recommendations.
 
 🚀 Key Features:
